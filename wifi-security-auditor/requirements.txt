@@ -1,0 +1,4 @@
+flask>=2.2
+reportlab>=4.0
+scapy>=2.5        # only needed for the raw monitor-mode backend (Linux)
+# netifaces       # optional (nicer interface details) - needs a C compiler, so it is NOT required

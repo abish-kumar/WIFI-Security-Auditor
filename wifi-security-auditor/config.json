@@ -1,0 +1,8 @@
+{
+  "trusted": {
+    "Home_Network": ["00:27:19:AA:01:10"],
+    "Office_Net": ["00:0B:86:10:20:30"]
+  },
+  "rogue_threshold": 60,
+  "suspicious_threshold": 30
+}
